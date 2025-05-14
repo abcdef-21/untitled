@@ -5,6 +5,6 @@ public class Main {
         //TIP ハイライトされたテキストにキャレットがある状態で <shortcut actionId="ShowIntentionActions"/> を押すと
         // IntelliJ IDEA によるその修正案を確認できます。
         System.out.print("林　頼吾");
-        
+        System.out.print("林　頼吾");
     }
 }
