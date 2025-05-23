@@ -4,6 +4,6 @@ public class Review6 {
         System.out.println(10-2.5);
         System.out.println(100/3);
         System.out.println(10*3.0);
-        System.out.println(50.0/5);
+        System.out.println(50.0/5);//計算
     }
 }
