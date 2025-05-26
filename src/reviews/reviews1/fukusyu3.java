@@ -1,3 +1,5 @@
+package reviews.reviews1;
+
 public class fukusyu3 {
     public static void main(String[] args){
         System.out.println(10-7*2+"7"+5*-10);

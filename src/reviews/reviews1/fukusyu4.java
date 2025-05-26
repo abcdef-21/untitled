@@ -1,3 +1,5 @@
+package reviews.reviews1;
+
 public class fukusyu4 {
     public static void main(String[] args) {
         int number = 5;
