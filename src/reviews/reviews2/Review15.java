@@ -7,6 +7,8 @@ public class Review15 {
             System.out.println("偶数");
         }else if(num % 2 == 1){
             System.out.println("奇数");
+        }else{
+            System.out.println("無効な入力です。");
         }
     }
 
