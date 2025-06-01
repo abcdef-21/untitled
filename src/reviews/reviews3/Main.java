@@ -16,5 +16,5 @@ public class Main {
         System.out.println(to + "に以下のメールを送信しました。");
         System.out.println("件名: " + subject);
         System.out.println("本文: " + body);
-    }
+    }//
 }
